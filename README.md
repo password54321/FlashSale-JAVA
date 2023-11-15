@@ -1,4 +1,4 @@
-# Flash Sake project
+# Flash Sale project
 
 Designed to sell a limited amount of products for a short period of time
 + Java
