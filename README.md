@@ -1,4 +1,4 @@
-# Seckill project
+# Flash Sake project
 
 Designed to sell a limited amount of products for a short period of time
 + Java
